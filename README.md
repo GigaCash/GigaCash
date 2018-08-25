@@ -1,7 +1,7 @@
 Gigacash [GCASH]
 =====================================
 
-[![Build Status](https://travis-ci.org/Gigacash-Project/Gigacash.svg?branch=master)](https://travis-ci.org/Gigacash-Project/Gigacash) [![GitHub version](https://badge.fury.io/gh/Gigacash-Project%2FGigacash.svg)](https://badge.fury.io/gh/Gigacash-Project%2FGigacash)
+[![Build Status](https://travis-ci.org/GigaCash/Gigacash.svg?branch=master)](https://travis-ci.org/GigaCash/GigaCash) [![GitHub version](https://badge.fury.io/gh/GigaCash%2FGigaCash.svg)](https://badge.fury.io/gh/GigaCash%2FGigaCash)
 
 GigaCash is a open source cryptocurrency that focuses on privacy, speed, decentralization and community decisions. GigaCash uses the QUARK algorithm with POS consensus and Masternodes to create a secure network with full nodes across the globe, this ensures the network is decentralized and no one person has control or ownership. Unlike most other currencies, decisions on GigaCash’s future are made by the community. Our long term goal is mass adoption and to be a top 100 cryptocurrency within 2 years, we aim to complete community projects and create a payment gateway which our partners will beable to implement to accept payment with any cryptocurrency for services, products, bills and more, while giving GigaCash holders extra benefits. We are also looking to create a Decentralized Exchange which will give masternodes and stakers 90% of trading fees.
 
